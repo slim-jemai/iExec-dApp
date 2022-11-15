@@ -2,7 +2,7 @@ iExec NFT lottery Decentralized Application
 
 A dApp that allows the user to enter in a lottery to win an NFT
 first the user has to connect to the application using Metamask
-the application provides three functionalities__
+the application provides three functionalities\
 Enter lottery ( available for any user ) : allows the user to participate in the lottery
 Pick winner ( available only for admin ) : picks winner from the list of participated players
 Pay winner ( available only for admin ) : transfer the NFT to the lottery winner account (or total deposited amount of eth)
